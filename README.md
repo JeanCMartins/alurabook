@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-<h1 ><b>Alura</b>Books</h1>
+<h1 >AluraBooks</h1>
 <img src="img/Logo.png">
 </div>
 <h2>Descrição do Projeto</h2>
