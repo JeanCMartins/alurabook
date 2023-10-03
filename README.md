@@ -21,7 +21,6 @@ Neste projeto, foram utilizadas as seguintes tecnologias:
 Para visualizar o site, basta abrir o arquivo index.html em um navegador da web, ou acesse os seguintes urls: 
 <ul>
   <li>https://alurabooks-pi-rosy.vercel.app</li>
-  <li>https://jeancmartins.github.io/alurabook/</li>
 </ul>
 
 <h2>Autor</h2>
