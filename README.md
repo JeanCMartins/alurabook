@@ -7,12 +7,11 @@
 </div>
 
 <h2>Descrição do Projeto</h2>
-O projeto Alura Books tem o foco na utilização do mobile-first e consiste na criação de um site fictício para uma plataforma de venda de livros chamada "AluraBooks".
+O Projeto Alura Books está centrado na abordagem "mobile-first" e envolve o desenvolvimento de um site fictício para uma plataforma de venda de livros denominada "AluraBooks". Este site será responsivo, adaptando-se de forma adequada tanto a dispositivos móveis quanto a tablets e desktops
 
 <h2>Tecnologias Utilizadas</h2>
 
-<h2>Neste projeto, foram utilizadas as seguintes tecnologias:</h2>
-
+<bNeste projeto, foram utilizadas as seguintes tecnologias:
 HTML5: Para a estruturação do conteúdo do site.
 CSS3: Para a estilização e layout das páginas.
 Responsive Design: O site é responsivo e se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktop.
