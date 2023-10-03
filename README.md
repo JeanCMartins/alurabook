@@ -11,7 +11,8 @@ O Projeto Alura Books está centrado na abordagem "mobile-first" e envolve o des
 
 <h2>Tecnologias Utilizadas</h2>
 
-<ul>Neste projeto, foram utilizadas as seguintes tecnologias:
+Neste projeto, foram utilizadas as seguintes tecnologias:
+<ul> 
   <li>HTML5: Para a estruturação do conteúdo do site.</li>
   <li>CSS3: Para a estilização e layout das páginas.</li>
   <li>Responsive Design: O site é responsivo e se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktop.</li>
