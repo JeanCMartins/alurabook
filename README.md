@@ -2,10 +2,10 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=Concluido&color=GREEN&style=for-the-badge"/>
 </p>
 
-<div align="center">
-<h1 >AluraBooks</h1>
-<img src="img/Logo.png">
+
+<h1 align="center">AluraBooks</h1>
 </div>
+
 <h2>Descrição do Projeto</h2>
 O projeto Alura Books tem o foco na utilização do mobile-first e consiste na criação de um site fictício para uma plataforma de venda de livros chamada "AluraBooks".
 
